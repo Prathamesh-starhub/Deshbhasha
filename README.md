@@ -1,4 +1,4 @@
-# DeshBhasha – Multilingual Indian Tourism Portal
+8# DeshBhasha – Multilingual Indian Tourism Portal
 
 ### 📌 Project Overview
 *   **Goal:** A mobile-first web app for tourists to explore Indian states through local languages.
@@ -53,3 +53,5 @@
 *   **Native Content:** Translations need verification by native speakers.
 *   **Audio:** Some dialects (e.g., Marwari) fall back to the nearest major language voice (Hindi).
 *   **Security:** Registration does not yet include email verification or rate limiting.
+
+Al Acknowledgment: This project was developed with assistance from Google Gemini for code generation, and Ul development.
