@@ -54,4 +54,4 @@
 *   **Audio:** Some dialects (e.g., Marwari) fall back to the nearest major language voice (Hindi).
 *   **Security:** Registration does not yet include email verification or rate limiting.
 
-Al Acknowledgment: This project was developed with assistance from Google Gemini for code generation, and Ul development.
+Al Acknowledgment: This project was developed with assistance from Claude for code generation, and Ul development.
